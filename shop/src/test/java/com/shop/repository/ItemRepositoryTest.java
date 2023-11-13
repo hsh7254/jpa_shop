@@ -85,10 +85,7 @@ class ItemRepositoryTest {
             System.out.println(item.toString());
         }
     }
-<<<<<<< HEAD
     /*-------------------query method test----------------- */
 
-    
-=======
->>>>>>> 2c3a71b4c7257cf8c3f48b0354c7a0aa25c11b47
+
 }
